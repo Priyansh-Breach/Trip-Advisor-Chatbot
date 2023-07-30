@@ -1,6 +1,5 @@
 # Trip Advisor AI Chatbot
 
-![Trip Advisor AI Chatbot](https://example.com/chatbot_image.png)
 
 Trip Advisor AI is a chatbot designed to help users plan their perfect trip. The chatbot uses GPT-3.5 Turbo from OpenAI to provide natural, conversational responses to user queries about travel destinations, budgets, durations, weather forecasts, and more.
 
